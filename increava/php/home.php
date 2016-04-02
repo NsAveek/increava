@@ -187,11 +187,11 @@
 						
 							<h3 class="block-title">Information</h3>
 							<ul class="content_list">
-								<li><a href="#">About Us</a></li>
-								<li><a href="#">Delivery Information</a></li>
-								<li><a href="#">Privacy Policy</a></li>
-								<li><a href="#">Terms & Conditions</a></li>
-								<li><a href="#">Services</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">About Us</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Delivery Information</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Privacy Policy</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Terms & Conditions</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Services</a></li>
 							</ul>
 						</div>
 					
@@ -199,11 +199,11 @@
 						
 							<h3 class="block-title">Information</h3>
 							<ul class="content_list">
-								<li><a href="#">About Us</a></li>
-								<li><a href="#">Delivery Information</a></li>
-								<li><a href="#">Privacy Policy</a></li>
-								<li><a href="#">Terms & Conditions</a></li>
-								<li><a href="#">Services</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">About Us</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Delivery Information</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Privacy Policy</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Terms & Conditions</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Services</a></li>
 							</ul>
 						
 						</div>
@@ -212,11 +212,11 @@
 						
 							<h3 class="block-title">Information</h3>
 							<ul class="content_list">
-								<li><a href="#">About Us</a></li>
-								<li><a href="#">Delivery Information</a></li>
-								<li><a href="#">Privacy Policy</a></li>
-								<li><a href="#">Terms & Conditions</a></li>
-								<li><a href="#">Services</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">About Us</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Delivery Information</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Privacy Policy</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Terms & Conditions</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Services</a></li>
 							</ul>
 						</div>
 					
@@ -224,11 +224,11 @@
 						<div class="col-xs-12 col-md-3 content_footer">
 						<h3 class="block-title">Information</h3>
 							<ul class="content_list">
-								<li><a href="#">About Us</a></li>
-								<li><a href="#">Delivery Information</a></li>
-								<li><a href="#">Privacy Policy</a></li>
-								<li><a href="#">Terms & Conditions</a></li>
-								<li><a href="#">Services</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">About Us</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Delivery Information</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Privacy Policy</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Terms & Conditions</a></li>
+								<li><a class="changeGray" href="#" style="text-decoration:none;">Services</a></li>
 							</ul>
 							
 						</div>

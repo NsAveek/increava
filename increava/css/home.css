@@ -180,6 +180,23 @@ a{
     padding-top: 5px;
     margin-bottom: 5px;
 }
+/*.content_list a:hover
+{
+    background-color: yellow;
+}*/
+.content_list li{
+    font-family: 'Roboto Slab', serif;
+    
+    margin-bottom: 10px;
+
+}
+.content_list a.changeGray:link { /* default link color */
+     color: #777;
+}
+.content_list a.changeGray:hover { /* change to gray on mouseover */
+     color: #7ac5cd;
+}
+
 .background{
     background-color: #1e4456;   
 }
