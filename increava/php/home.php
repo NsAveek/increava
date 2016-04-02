@@ -38,17 +38,17 @@
 
 					<div class="navbar-offcanvas navbar-offcanvas-touch " id="js-bootstrap-offcanvas">
 						<ul class="nav navbar-nav custom-navbar">
-							<li><a href="#">Home</a></li>
+							<li><a class="nav-title active" href="#">Home</a></li>
 							
-							<li><a href="#">Living</a></li>
+							<li><a  class="nav-title" href="#">Living</a></li>
 							
-							<li><a href="#">Bedroom</a></li>
+							<li><a  class="nav-title" href="#">Bedroom</a></li>
 							
-							<li><a href="#">Accessories</a></li>
+							<li><a  class="nav-title" href="#">Accessories</a></li>
 							
-							<li><a href="#">Blog</a></li>
+							<li><a  class="nav-title" href="#">Blog</a></li>
 							
-							<li><a href="#">About Us</a></li>
+							<li><a  class="nav-title" href="#">About Us</a></li>
 						</ul>
 					</div>
 				</div>
@@ -58,36 +58,36 @@
 	<div class="container-fluid" id="main">
 
 		<div class="row"><!-- BANNER -->
-			<div class="banner">
+			<div class="banner col-xs-12">
 				<div class="container-fluid custom">
 					
 					<div id="carousel-example-generic" class="carousel slide" data-ride="carousel" data-interval="3000">
 						<!-- Indicators -->
 						<ol class="carousel-indicators">
-							<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-							<li data-target="#carousel-example-generic" data-slide-to="1"></li>
-							<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+							<li data-target="#carousel-example-generic" data-slide-to="0"  class="active"></li>
+							<li data-target="#carousel-example-generic" data-slide-to="1" ></li>
+							<li data-target="#carousel-example-generic" data-slide-to="2" ></li>
 						</ol>
 
 						<!-- Wrapper for slides -->
 						<div class="carousel-inner">
 							<div class="item active">
-								<img src="http://placehold.it/1380x415" alt="...">
-								<div class="carousel-caption">
+								<a href="#"><img class="banner_item"></a>
+								<!-- <div class="carousel-caption">
 									<h3>Caption 1</h3>
-								</div>
+								</div> -->
 							</div>
 							<div class="item">
-								<img src="http://placehold.it/1380x415" alt="...">
-								<div class="carousel-caption">
+								<a href="#"><img class="banner_item"></a>
+								<!-- <div class="carousel-caption">
 									<h3>Caption 2</h3>
-								</div>
+								</div> -->
 							</div>
 							<div class="item">
-								<img src="http://placehold.it/1380x415" alt="...">
-								<div class="carousel-caption">
+								<a href="#"><img class="banner_item"></a>
+								<!-- <div class="carousel-caption">
 									<h3>Caption 3</h3>
-								</div>
+								</div> -->
 							</div>
 						</div>
 
@@ -109,19 +109,19 @@
 		<div class="row"><!-- Category Box -->
 
 			<div class="col-xs-12 col-md-3 custom_category">
-				<img class= "img-responsive" src="../images/banner1.jpg">
+				<a href="#"><img class= "img-responsive" src="../images/banner1.jpg"></a>
 			</div>
 			<div class="clearfix-visible-xs-block"></div>
 			<div class="col-xs-12 col-md-3 custom_category">
-				<img class= "img-responsive" src="../images/banner1.jpg">
+				<a href="#"><img class= "img-responsive" src="../images/banner1.jpg"></a>
 			</div>
 			<div class="clearfix-visible-xs-block"></div>
 			<div class="col-xs-12 col-md-3 custom_category">
-				<img class= "img-responsive" src="../images/banner1.jpg">
+				<a href="#"><img class= "img-responsive"  src="../images/banner1.jpg"></a>
 			</div>
 			<div class="clearfix-visible-xs-block"></div>
 			<div class="col-xs-12 col-md-3 custom_category">
-				<img class= "img-responsive" src="../images/banner1.jpg">
+				<a href="#"><img class= "img-responsive"  src="../images/banner1.jpg"> </a>
 			</div>
 
 		</div>
@@ -129,7 +129,7 @@
 		<div class="row"> <!-- Featured Box Text -->
 			<div class="col-xs-12 col-md-12">
 				<p><h1 style="text-align: center;"> Featured Product</h1></p>
-				<p><h4 style="text-align: center;"> -------XXXXX-------</h4></p>
+				<p><h4 style="text-align: center; "> -------XXXXX-------</h4></p>
 				<!-- <p>
 				   <img id="left_arrow" class= "arrow_responsive" src="../images/left_arrow.png">
 				   <img id="right_arrow" class= "arrow_responsive" src="../images/arrow_right.png">
@@ -185,50 +185,50 @@
 
 						<div class="col-xs-12 col-md-3 content_footer">
 						
-							<h3>Information</h3>
+							<h3 class="block-title">Information</h3>
 							<ul class="content_list">
-								<li>About Us</li>
-								<li>Delivery Information</li>
-								<li>Privacy Policy</li>
-								<li>Terms & Conditions</li>
-								<li>Services</li>
+								<li><a href="#">About Us</a></li>
+								<li><a href="#">Delivery Information</a></li>
+								<li><a href="#">Privacy Policy</a></li>
+								<li><a href="#">Terms & Conditions</a></li>
+								<li><a href="#">Services</a></li>
 							</ul>
 						</div>
 					
 						<div class="col-xs-12 col-md-3 content_footer">
 						
-							<h3>Information</h3>
+							<h3 class="block-title">Information</h3>
 							<ul class="content_list">
-								<li>About Us</li>
-								<li>Delivery Information</li>
-								<li>Privacy Policy</li>
-								<li>Terms & Conditions</li>
-								<li>Services</li>
+								<li><a href="#">About Us</a></li>
+								<li><a href="#">Delivery Information</a></li>
+								<li><a href="#">Privacy Policy</a></li>
+								<li><a href="#">Terms & Conditions</a></li>
+								<li><a href="#">Services</a></li>
 							</ul>
 						
 						</div>
 					
 						<div class="col-xs-12 col-md-3 content_footer">
 						
-							<h3>Information</h3>
+							<h3 class="block-title">Information</h3>
 							<ul class="content_list">
-								<li>About Us</li>
-								<li>Delivery Information</li>
-								<li>Privacy Policy</li>
-								<li>Terms & Conditions</li>
-								<li>Services</li>
+								<li><a href="#">About Us</a></li>
+								<li><a href="#">Delivery Information</a></li>
+								<li><a href="#">Privacy Policy</a></li>
+								<li><a href="#">Terms & Conditions</a></li>
+								<li><a href="#">Services</a></li>
 							</ul>
 						</div>
 					
 					
 						<div class="col-xs-12 col-md-3 content_footer">
-						<h3>Information</h3>
+						<h3 class="block-title">Information</h3>
 							<ul class="content_list">
-								<li>About Us</li>
-								<li>Delivery Information</li>
-								<li>Privacy Policy</li>
-								<li>Terms & Conditions</li>
-								<li>Services</li>
+								<li><a href="#">About Us</a></li>
+								<li><a href="#">Delivery Information</a></li>
+								<li><a href="#">Privacy Policy</a></li>
+								<li><a href="#">Terms & Conditions</a></li>
+								<li><a href="#">Services</a></li>
 							</ul>
 							
 						</div>
@@ -239,7 +239,7 @@
 		<div class="row"> <!-- Footar sticky -->
 			
 			<div class="container-fluid copyright" id="footer">
-				<p class="copyright_p">  © 2015 <a href="www.increava.com">Increava</a> Designed By <a href="www.arphtexstudio.com">Arphtex Studio</a></p>
+				<p class="copyright_p">  © 2016 <a href="www.increava.com">Increava</a> Designed By <a href="www.arphtexstudio.com">Arphtex Studio</a></p>
 			</div>
 		</div>
 		
@@ -249,6 +249,7 @@
 	<script src="../js/jquery.min.js"></script>
 	<script src="../js/bootstrap.min.js"></script>
 	<script src="../js/bootstrap.offcanvas.min.js"></script>
+	<script src="../js/custom.js"></script>
 	<script>
 
 		$('.carousel[data-type="multi"] .item').each(function(){
